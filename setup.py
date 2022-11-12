@@ -7,7 +7,7 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="cryptochaos",
-    version="0.0.4",
+    version="1.0.0",
     description="Simple encryption/decryption algorithms based on chaotic maps.",
     url="https://github.com/Eggie-Wu/CryptoChaos",
     author="Eggie Wu",
